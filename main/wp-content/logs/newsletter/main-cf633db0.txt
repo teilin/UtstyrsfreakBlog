@@ -1,0 +1,25 @@
+25-12-2012 11:16:48 - ERROR - Can't DROP 'name'; check that column/key exists
+25-12-2012 11:16:48 - ERROR - Table 'godpaski.wp_utstrsfreak_newsletter' doesn't exist
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'message'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'message_text'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'subject'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'type'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'created'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'status'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'total'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'last_id'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'sent'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'send_on'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'track'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'editor'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'sex'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'query'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'preferences'
+25-12-2012 11:16:48 - ERROR - Can't DROP 'name'; check that column/key exists
+25-12-2012 11:16:48 - ERROR - Table 'godpaski.wp_utstrsfreak_newsletter' doesn't exist
+25-12-2012 11:22:44 - ERROR - Blocked by transient newsletter_main_engine set 214 seconds ago
+25-12-2012 11:29:51 - ERROR - mail> SMTP Error: The following recipients failed: teis.lindemark@me.com<p>SMTP server error: relay not permitted
+</p>
+
+25-12-2012 11:38:44 - ERROR - Blocked by transient newsletter_main_engine set 231 seconds ago
+25-12-2012 12:42:19 - ERROR - Blocked by transient newsletter_main_engine set 89 seconds ago

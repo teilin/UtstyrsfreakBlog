@@ -1,0 +1,54 @@
+/*
+Theme Name: Business Two
+Description: Classic and traditional signature with monotone background.
+Author: ArtCore
+Author URI: http://artcore-illustrations.de/
+Author Email: artcorehro@googlemail.com
+Tags: beige, traditional
+
+Note: the styles below offer all the possibilities of Wysija. The plugin won't recognize any additional styles if you add them.
+
+*/
+html {
+    background-color: #f8f4e5; /* cannot be transparent and will default to white */
+}
+
+header {
+    background-color: f8f4e5; /* can be transparent */
+}
+body {
+    color:#202020;
+    font-family: "Arial";
+    font-size: 12px;
+    background-color: #f8f4e5; /* can be transparent */
+}
+footer {
+    background-color: #000000; /* can be transparent */
+}
+h1 {
+    color: #cda868;
+    font-family: "Times New Roman";
+    font-size: 36px;
+}
+h2 {
+    color: #cda868;
+    font-family: "Times New Roman";
+    font-size: 30px;
+}
+h3 {
+    color: #cda868;
+    font-family: "Times New Roman";
+    font-size: 24px;
+}
+a {
+    color: #cda868;
+    text-decoration:none;
+}
+unsubscribe {
+    color:#7f7f7f;
+}
+viewbrowser {
+	font-family:'Arial';
+	font-size:11px;
+	color:#7f7f7f;
+}

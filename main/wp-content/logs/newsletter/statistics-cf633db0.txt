@@ -1,0 +1,17 @@
+25-12-2012 11:16:48 - ERROR - Table 'godpaski.wp_utstrsfreak_newsletter_stats' doesn't exist
+25-12-2012 11:16:48 - ERROR - Table 'godpaski.wp_utstrsfreak_newsletter_stats' doesn't exist
+25-12-2012 11:16:48 - ERROR - Table 'godpaski.wp_utstrsfreak_newsletter_stats' doesn't exist
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'user_id'
+25-12-2012 11:16:48 - ERROR - Unknown column 'newsletter_id' in 'wp_utstrsfreak_newsletter_stats'
+25-12-2012 11:16:48 - ERROR - Unknown column 'newsletter_id' in 'wp_utstrsfreak_newsletter_stats'
+25-12-2012 11:16:48 - ERROR - Unknown column 'date' in 'wp_utstrsfreak_newsletter_stats'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'user_id'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'email_id'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'link_id'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'user_id'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'created'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'url'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'anchor'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'email_id'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'token'
+25-12-2012 11:16:48 - ERROR - Duplicate column name 'text'
